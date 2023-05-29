@@ -1,0 +1,32 @@
+#environment variable file.
+.env
+
+# Python
+*.py[cod]
+__pycache__/
+*.so
+*.egg-info/
+dist/
+build/
+
+# Streamlit
+.streamlit/
+session-*.*
+recent-*.*
+config.toml
+credentials.toml
+
+# Virtual environment
+venv/
+env/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.pydevproject
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*~
