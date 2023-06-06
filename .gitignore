@@ -32,3 +32,4 @@ env/
 *~
 temp*
 temp.csv
+*.csv
