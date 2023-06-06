@@ -31,3 +31,4 @@ env/
 *.swp
 *~
 temp*
+temp.csv
